@@ -1,0 +1,47 @@
+#container{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 310px;
+    margin: 30px 510px;
+}
+h2{
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row input{
+    padding: 5px 6px;
+    margin: -4px 0px;
+    margin-bottom: 18px;
+
+}
+
+.button{
+    margin: 3px 2px;
+    padding: 3px 14px;
+    cursor: pointer;
+}
+
+.row1 button{
+    margin: 1px 5px;
+    padding: 2px 14px;
+}
+
+.row2 button{
+    margin: 4px 3.6px;
+}
+
+.row3 button{
+    margin: 4px 3.8px;
+}
+
+.row4 button{
+    margin: 4px 3.5px;
+}
